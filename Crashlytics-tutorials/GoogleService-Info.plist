@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>156205698750-cu1r9s2oslu4i09m1g8rklsda4pdd5rm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.156205698750-cu1r9s2oslu4i09m1g8rklsda4pdd5rm</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCWnK6o6z3iF8UIbEZQoHh2S7bmzFWZiM0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>156205698750</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mypc.test.Crashlytics-tutorials</string>
+	<key>PROJECT_ID</key>
+	<string>test-crashlytics-66e9b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>test-crashlytics-66e9b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:156205698750:ios:d04bc13f878b61751618ef</string>
+	<key>DATABASE_URL</key>
+	<string>https://test-crashlytics-66e9b.firebaseio.com</string>
+</dict>
+</plist>
